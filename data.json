@@ -1,0 +1,37 @@
+{
+  "000000": {
+    "First Name": "Jaehwi",
+    "Last Name": "Kwon",
+    "PIN": "1234",
+    "checking account": 9940.01,
+    "savings account": 1000.01
+  },
+  "000001": {
+    "First Name": "Punishment",
+    "Last Name": "Sanders",
+    "PIN": "1111",
+    "checking account": 6216812125.0,
+    "savings account": 2100.0
+  },
+  "582824": {
+    "First Name": "Mickey",
+    "Last Name": "Mouse",
+    "PIN": "1111",
+    "checking account": 50.0,
+    "savings account": "None"
+  },
+  "939380": {
+    "First Name": "Minnie",
+    "Last Name": "Mouse",
+    "PIN": "1111",
+    "checking account": 100.0,
+    "savings account": "None"
+  },
+  "238812": {
+    "First Name": "Donald",
+    "Last Name": "Duck",
+    "PIN": "1111",
+    "checking account": 100.0,
+    "savings account": "None"
+  }
+}
